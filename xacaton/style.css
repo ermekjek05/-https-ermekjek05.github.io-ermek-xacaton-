@@ -1,0 +1,211 @@
+.form{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 20px;
+    left: 20px;
+}
+.form-1{
+    position: absolute;
+    top: -6px;
+    left: 300px;
+    color: darkslateblue;
+}
+.form-2{
+    position: absolute;
+    left: 300px;
+    top: 75px;
+}
+.form-3{
+    position: absolute;
+    left: 380px;
+    top: 75px;
+    color: black;
+}
+.form-4{
+    position: absolute;
+    left: 300px;
+    top: 95px;
+}
+.form-5{
+    position: absolute;
+    left: 295px;
+    top: 144px;
+    width: 215px;
+    height: 0;
+    background-color: black;
+}
+.form-6{
+    position: absolute;
+    top: 155px;
+    left: 300px;
+    color: rgb(59, 56, 56);
+}
+.form-7{
+    position: absolute;
+    top: 155px;
+    left: 430px;
+    color: black;
+}
+.form-8{
+    position: absolute;
+    top: 180px;
+    left: 300px;
+}
+.form-9{
+    position: absolute;
+    top: 230px;
+    left: 300px;
+}
+.form-10{
+    position: absolute;
+    left: 300px;
+    top: 230px;
+    width: 200px;
+    height: 0;
+    background-color: black;
+}
+.form-11{
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+.form-12{
+    position: absolute;
+    left: 300px;
+    top: 275px;
+    
+}
+.form-13{
+    position: absolute;
+    width: 1000px;
+    height: 0;
+    top: 320px;
+    background-color: aqua;
+    border: none;
+}
+.blok-1{
+   margin-top: 360px;
+   margin-left: 70px;
+   color: darkslateblue;
+}
+.blok-2{
+    margin-left: 70px;
+}
+.blok-3{
+    margin-left: 70px;
+}
+.blok-4{
+    margin-left: 70px;
+}
+.blok-5{
+    margin-left: 70px;
+}
+.blok-6{
+    margin-left: 70px;
+}
+.blok-7{
+    width: 1000px;
+    height: 0;
+    background-color: aqua;
+    border: none;
+}
+.forma{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 365px;
+    left: 45px;
+}
+.blok-8{
+    margin-left: 70px;
+    color: darkslateblue;
+}
+.blok-9{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 632px;
+    left: 45px;
+}
+.blok-10{
+    margin-left: 70px;
+}
+.blok-11{
+    margin-left: 70px;
+}
+.blok-12{
+    margin-left: 70px;
+}
+.blok-13{
+    margin-left: 70px;
+}
+.blok-14{
+    width: 1000px;
+    height: 0;
+    background-color: aqua;
+    border: none;
+}
+.tip{
+    margin-left: 70px;
+    color: darkslateblue;
+}
+.tip-1{
+    position: absolute;
+    top: 865px;
+    width: 24px;
+    height: 24px;
+    left: 45px;
+}
+.tip-2{
+    margin-left: 70px;
+}
+.tip-3{
+    width: 1000px;
+    height: 0;
+}
+.tip-4{
+    margin-left: 70px;
+}
+.tip-5{
+    margin-left: 70px;
+}
+.tip-6{
+    margin-left: 70px;
+    width: 30px;
+    height: 30px;
+}
+.tip-7{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 100px;
+    left: 600px;
+}
+.tip-8{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 410px;
+    top: 425px;
+}
+.tip-9{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 410px;
+    top: 660px;
+}
+.tip-10{
+    position: absolute;
+    width: 200px;
+    height: 120px;
+    top: 840px;
+    left: 365px;
+}
+@media all and (max-width:320){
+    .form-1{
+        position: absolute;
+        font-size: 10px;
+    }
+}
